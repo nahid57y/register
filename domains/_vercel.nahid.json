@@ -1,0 +1,17 @@
+{
+
+  "owner": {
+
+    "username": "your-github-username",
+
+    "email": "your-email"
+
+  },
+
+  "records": {
+
+    "TXT": "vc-domain-verify=www.nahid.is-a.dev,4b3dedfeaa020622e5b6"
+
+  }
+
+}
